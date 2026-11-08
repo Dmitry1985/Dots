@@ -65,7 +65,7 @@ technical malfunctions beyond the Administration's control.
 
 6.1. Use of the Application is governed by the Privacy Policy available at:
 
-https://github.com/Dmitry1985/MagicBall/blob/main/privacy%20policy.md
+https://github.com/Dmitry1985/Dots/blob/main/privacy%20policy%20en.md
 
 6.2. The Application may process anonymous technical data (such as usage statistics and device parameters) to improve service quality.
 
